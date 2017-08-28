@@ -12,6 +12,7 @@ namespace ConsoleGit
         static void Main(string[] args)
         {
             Debug.WriteLine("TestGit");
+            Debug.WriteLine("TestGit");
         }
     }
 }
