@@ -15,7 +15,7 @@ namespace ConsoleGit
                 Debug.WriteLine("TestGit");
             Debug.WriteLine("TestGit");
             Debug.WriteLine("TestGit");
-	    Debug.WriteLine("TestGit");
+            Debug.WriteLine("TestGit");//on vs
         }
     }
 }
